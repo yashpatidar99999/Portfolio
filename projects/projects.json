@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Asos",
+    "desc": "This is a clone of Asos e-commerce website.",
+    "image": "asos",
+    "category": "mern",
+    "links": {
+      "view": "https://asos-project.onrender.com/",
+      "code": "https://github.com/yashpatidar99999/Asos-Project"
+    }
+  },
+  {
+    "name": "Modesens",
+    "desc": "This is a clone of modesens e-commerce website using html, css and javascript.",
+    "image": "modesens",
+    "category": "mern",
+    "links": {
+      "view": "https://modesens-0oko.onrender.com/",
+      "code": "https://github.com/yashpatidar99999/ModeSens"
+    }
+  }
+]
